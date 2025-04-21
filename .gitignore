@@ -1,0 +1,9 @@
+data/sample/ValeursFoncieres-sample.txt 
+data/raw/ValeursFoncieres-2024.txt 
+*.csv 
+*.pkl 
+*.h5 
+*.zip 
+*.rar 
+*.7z 
+*.tar.gz 
